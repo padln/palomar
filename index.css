@@ -1,7 +1,7 @@
 
 
 :root {
-	background-color: #000 !important;
+	background-color: #211d1b !important;
 }
 
 body {
@@ -46,5 +46,5 @@ a {
 @keyframes change {
     	0%  { color:  #0f0; }
     	50% { color:  #0f0; }
-    	99% { color: black; }
+    	99% { color: #211d1b; }
 }
