@@ -1,10 +1,12 @@
 <span id="a">user@palomar</span>:<span id="b">~</span><span id="c">$</span> cd Palomar/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
 <span id="a">user@palomar</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->palomar.txt<br/><br/>
+<pre>
 ________       ______                               
 ___  __ \_____ ___  /____________ _________ ________
 __  /_/ /  __ `/_  /_  __ \_  __ `__ \  __ `/_  ___/
 _  ____// /_/ /_  / / /_/ /  / / / / / /_/ /_  /    
 /_/     \__,_/ /_/  \____//_/ /_/ /_/\__,_/ /_/   
+<pre>
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras a metus ipsum. Cras sollicitudin lectus in velit feugiat scelerisque. Quisque sed dignissim ipsum, a euismod orci. Aenean dictum risus vel dolor consequat accumsan. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec sit amet sapien nec augue faucibus dignissim et et nunc. Maecenas tempus justo mattis, faucibus sem vel, lacinia felis.
