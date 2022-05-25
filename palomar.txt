@@ -1,6 +1,6 @@
 <span id="a">user@palomar</span>:<span id="b">~</span><span id="c">$</span> cd palomar/<!-- laglaglaglaglaglag -->About_Us
 <span id="a">user@palomar>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->[padln].txt<br/><br/>
-
+<!-- sjkfhskjf -->
 
 Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
 <p>You can introduce yourself here.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
